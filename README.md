@@ -12,7 +12,7 @@ Tasks	                Files	                                  Description
 
 1: Pep8	N/A	All code is pep8 compliant
 
-2: Unit Testing	/tests	All class-defining modules are unittested
+2: Unit Testing	 /tests	All class-defining modules are unittested
 
 3. Make BaseModel	/models/base_model.py	Defines a parent class to be inherited by all model classes
 
